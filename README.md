@@ -1,2 +1,2 @@
 # WebServiceRest
- API REST do desaio 
+ API REST do desafio técnico
